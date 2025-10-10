@@ -77,6 +77,8 @@ ghoatvj[0xC][GURU]= https://tryhackme.com/r/p/ghoatvj
 
 
 <----------------------------LEGEND [0xD]------------------------------>
+https://tryhackme.com/p/iamarit= c7fprofile
+
 anon.techy111[0xD][LEGEND]= https://tryhackme.com/r/p/anon.techy111
 r1pp3r6944[0xD][LEGEND]= https://tryhackme.com/r/p/r1pp3r6944
 SuNnY[0xD][LEGEND]= https://tryhackme.com/r/p/SuNnY
