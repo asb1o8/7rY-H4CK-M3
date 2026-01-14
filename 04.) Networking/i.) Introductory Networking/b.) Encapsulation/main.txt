@@ -1,2 +1,0 @@
-As the data is passed down each layer of the model, more information containing details specific to the 
-layer in question is added on to the start of the transmission.
