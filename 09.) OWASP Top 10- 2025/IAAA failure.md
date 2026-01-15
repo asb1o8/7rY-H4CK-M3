@@ -31,7 +31,7 @@ The exploitation of a flaw, misconfiguration, or oversight in a system that allo
 * `Horizontal privilege escalation` → When a user stays at the same role level but gains access to another user’s data or actions they shouldn’t have.
 
 
-## 🌲 Broken Access Control:-
+### 🌲 Broken Access Control:-
 
 It happens when the server doesn’t properly enforce who can access what on every request OR Itrefer to situations where access control mechanisms fail to enforce proper restrictions on user access to resources or data. Some common exploits for broken access control and examples:
 
@@ -41,7 +41,7 @@ It happens when the server doesn’t properly enforce who can access what on eve
 - [Dive into Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
 
 
-## 🌲 IDOR (Insecure Direct Object Reference):-
+### 🌲 IDOR (Insecure Direct Object Reference):-
 - If changing an ID (like ?id=7 → ?id=6) lets you see or edit someone else’s data, access control is broken. can occur when a web server receives user-supplied input to retrieve objects (files, data, documents), too much trust has been placed on the input data, and it is not validated on the server-side to confirm the requested object belongs to the user requesting it.
 - [Dive into Insecure Direct Object Refrence](https://tryhackme.com/room/idor)
 
@@ -69,6 +69,11 @@ account.
 
 - [Dive into Logging for Accountability](https://tryhackme.com/room/loggingforaccountability)
 
-##
+## ⛳
 
+- `A01 Broken Access Control:` Enforce server-side checks on every request
+- `A07 Authentication Failures:` Enforce unique indexes on the canonical form, rate-limit/lock out brute force, and rotate sessions on password/privilege changes.
+- `A09 Logging & Alerting Failures:` Log the full auth lifecycle (fail/success, password/2FA/role changes, admin actions), centralise logs off-host with retention, and alert on anomalies (e.g., brute-force bursts, privilege elevation).
+
+#
 * `Source:` [TryHackMe](https://tryhackme.com/room/owasptopten2025one)
