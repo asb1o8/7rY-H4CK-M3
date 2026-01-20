@@ -9,9 +9,8 @@
 
 ## 🚩 Serialisation:-
 - It is just like taking different pieces of information (like notes) and putting them together to make them easy to store or send to a friend.
-- In programming, serialisation is the process of transforming an object's state into a human-readable or binary format (or a mix of both) that can be stored or
-  transmitted and reconstructed as and when required. This capability is essential in applications where data must be transferred between different parts of a
-  system or across a network, such as in web-based applications. In PHP, this process is performed using the serialize() function.
+- In programming, serialization means converting an object (data structure) into a format that can be stored or transmitted (like a file, database, or over the internet) and reconstructed as and when required. This capability is essential in applications where data must be transferred between different parts of a
+system or across a network, such as in web-based applications. In PHP, this process is performed using the serialize() function.
 - Example: 
 
       <?php
