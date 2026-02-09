@@ -1,3 +1,11 @@
+#### 🌲 Following categories are covered:
+- Detection Engineer
+- Detection Engineering Frameworks 1
+- Detection Engineering Frameworks 2
+
+
+
+## 🚩 Detection Engineer
 ##### Detection engineering is the continuous process of building and operating threat intelligence analytics to identify potentially malicious activity or misconfigurations that may affect your environment. It requires a cultural shift with the alignment of all security teams and management to build effective threat-rich defence systems.
 
 #### 🌴 Detection Types:-
@@ -46,6 +54,52 @@
 - DaC offers a code-driven workflow that creates fine-tuned detection processes that introduce critical
   elements found in Continuous Integration/Continuous Development (CI/CD) workflows. Some of these elements
   include:
-
       - Version Control
       - Automation workflows
+
+
+
+## 🚩 Detection Engineering Frameworks 1
+
+- [ATT&CK framework](https://attack.mitre.org/) maps adversarial actions for detection engineering and guides gap analysis.
+- [CAR or Cyber Analytics Repository](https://car.mitre.org/) knowledge base detects and prioritizes adversary behaviours using ATT&CK.
+
+
+#### 🌴 Pyramid of Pain:-
+- This is a well-known framework in the industry and is mainly used to showcase the pain for the adversary; if
+  the defenders detect their TTPs, then how difficult and/or costly it would be for the adversary to change
+  their TTPs.
+
+  Attack img
+
+
+
+#### 🌴 Cyber Kill Chain:-
+- Thanks to a military concept of an attack strategy, Lockheed Martin formulated the Cyber Kill Chain framework
+  to define the necessary steps followed by adversaries. The framework focuses on seven crucial phases that
+  cyber-attacks commonly follow:
+
+    - Reconnaissance
+    - Weaponisation
+    - Delivery
+    - Exploitation
+    - Installation
+    - Command & Control
+    - Actions on Objectives
+ - As a security analyst and detection engineer, understanding the Cyber Kill Chain will give you the knowledge
+   to recognise intrusion attempts crafted by an adversary and map them into your detection plan. The Unified
+   Kill Chain was developed to complement the Cyber Kill Chain by combining it with other frameworks, such as
+   the MITRE ATT&CK framework. This expanded the original kill chain into 18 phases to cover every known element
+   of a cyber attack.
+   UKC cmd image
+
+#### 🌴 Other Frameworks:- 
+- [MITRE](https://tryhackme.com/room/mitre)
+- [Pyramid of Pain](https://tryhackme.com/room/pyramidofpainax)
+- [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
+- [Unified Kill Chain](https://tryhackme.com/room/unifiedkillchain)
+
+
+
+## 🚩 Detection Engineering Frameworks 2
+
