@@ -1,8 +1,6 @@
 #### 🌲 Following categories are covered:
 - Detection Engineer
 - Detection Engineering Frameworks 1
-- Detection Engineering Frameworks 2
-
 
 
 ## 🚩 Detection Engineer
@@ -98,8 +96,4 @@
 - [Pyramid of Pain](https://tryhackme.com/room/pyramidofpainax)
 - [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
 - [Unified Kill Chain](https://tryhackme.com/room/unifiedkillchain)
-
-
-
-## 🚩 Detection Engineering Frameworks 2
 
